@@ -1,0 +1,5 @@
+build:
+  docker:
+    dashboard: Dockerfile
+run:
+  dashboard: streamlit run SER_app.py
